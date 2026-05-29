@@ -4,9 +4,6 @@
 🎓 **Informatics Student** | Focus on Software Engineering & Cyber Security.<br>🛡️ Interested in **Cybersecurity**, **Network Engineering**, and **Automation**.<br>🛠️ Currently developing an **Automated Reconnaissance Tool** using Python.<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theoedberts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theodore-edbert-suryo-336992382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theodoreedberts@gmail.com) 
-
 # 💻 Tech Stack:
 
 ### 🌐 Languages & Web Development
@@ -17,6 +14,9 @@
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theoedberts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theodore-edbert-suryo-336992382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theodoreedberts@gmail.com) 
 
 ---
 [![](https://komarev.com/ghpvc/?username=theodoreedberts&icon=0&color=0)](https://visitcount.itsvg.in)
