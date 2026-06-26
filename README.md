@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 **Informatics Student** | Focus on Network Engineering & Cyber Security.<br>🛡️ Interested in **Cybersecurity**, **Network Engineering**, and **Automation**.<br>🛠️ Currently developing an **Automated Reconnaissance Tool** using Python.<br>
-
+🎓 **Informatics Student** | Focus on Network Engineering & Cyber Security.<br>🛡️ Interested in **Cybersecurity**, **Network Engineering**, and **Automation**.<br>
 
 # 💻 Tech Stack:
 
